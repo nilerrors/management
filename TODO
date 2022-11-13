@@ -1,0 +1,8 @@
+Authentication
+    JWT Token
+        Register Users
+        Token With and Without Duration
+    User Context
+        JWT Token in LocalStorage
+        isLoggedIn
+        Log Out
