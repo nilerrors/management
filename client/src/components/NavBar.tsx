@@ -41,8 +41,8 @@ const urls = [
     title: "Home",
   },
   {
-    url: "/esp",
-    title: "ESPs",
+    url: "/plants",
+    title: "Plants",
   },
   {
     url: "/settings",
